@@ -13,11 +13,6 @@ Habilidades: <img alt="Python" src="https://img.shields.io/badge/python-%2314354
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brianr-v)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=brianr-v&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/brianr-v)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=brianr-v)  
 
 
 
